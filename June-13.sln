@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{93F14F60-F6A4-4F07-886B-1BB82B993FF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeList", "ChangeList\ChangeList.csproj", "{C6928872-E58A-45DC-8C3B-F24D2D0251C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{93F14F60-F6A4-4F07-886B-1BB82B993FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93F14F60-F6A4-4F07-886B-1BB82B993FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93F14F60-F6A4-4F07-886B-1BB82B993FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6928872-E58A-45DC-8C3B-F24D2D0251C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6928872-E58A-45DC-8C3B-F24D2D0251C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6928872-E58A-45DC-8C3B-F24D2D0251C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6928872-E58A-45DC-8C3B-F24D2D0251C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
